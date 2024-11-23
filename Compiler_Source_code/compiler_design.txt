@@ -21,4 +21,6 @@ Rule Syntax: %%
 
 
  Stage 2: Syntax Analyser: Parser:
- 
+ - create the yacc(.y) file: file which contains the grammar rules of the language along with their associated semantic actions
+ - .y file creation:
+ * consists of 4 main parts: headers, definitions, rules and user code section
