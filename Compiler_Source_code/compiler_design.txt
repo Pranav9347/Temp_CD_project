@@ -21,4 +21,10 @@ Rule Syntax: %%
 
 
  Stage 2: Syntax Analyser: Parser:
+
  Refer the documentation at: .mit.edu/gnu/doc/html/bison_toc.html
+
+ - create the yacc(.y) file: file which contains the grammar rules of the language along with their associated semantic actions
+ - .y file creation:
+ * consists of 4 main parts: headers, definitions, rules and user code section
+
